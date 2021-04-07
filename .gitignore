@@ -1,0 +1,10 @@
+
+
+
+.env
+exports
+.cache
+build
+
+.vscode
+node_modules
